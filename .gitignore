@@ -1,0 +1,9 @@
+# Vscode config.
+.vscode
+
+# Python Cache
+*.pyc
+
+# Video testing file
+*.mp4
+*.avi
